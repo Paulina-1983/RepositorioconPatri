@@ -1,7 +1,7 @@
 switch(dia) {
-    case "lunes" :
+    case "lunes":
+    case "martes" :
     case "miercoles" :
-    case "viernes" :
     console.log("tenés clases") ;
     break;
     default :
